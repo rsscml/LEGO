@@ -104,8 +104,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-unilever-backend/.env
-unilever-backend/venv
+backend/.env
+backend/venv
 ..venv
 .env
 ../.env
@@ -144,9 +144,9 @@ dmypy.json
 
 # dependencies
 ..node_modules
-unilever-fronted/node_modules
-./unilever-fronted/node_modules
-../unilever-fronted/node_modules
+fronted/node_modules
+fronted/node_modules
+../node_modules
 /.pnp
 .pnp.js
 

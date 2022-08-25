@@ -1,4 +1,4 @@
-MOST WELCOME TO COLLABORATE CODEINPYTHON-ORG
+
 #Backend
 Follow the steps to run this project:
 
